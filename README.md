@@ -1,2 +1,2 @@
 # Teaching-examples
-Personal Teaching Examples for CS731
+Personal Teaching Examples for BAN731
